@@ -5,12 +5,6 @@ Each project simulates a real-world online store with dynamic product rendering,
 
 This repository is part of my **Full Stack Development practice series**, focused on strengthening frontend architecture and UI design across multiple business domains.
 
----
-
-## 🚀 Live Hub
-
-👉 https://shopsphere-krushnataur.vercel.app/
-*(Main landing page containing all stores)*
 
 ---
 
